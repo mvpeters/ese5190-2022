@@ -15,7 +15,7 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/mvpeters/ESE5190-Lab2b/blob/main/Part5.md
 ### `/lab2b/part05/status`
 not-started
 ### `/lab2b/part06/link`
